@@ -1,0 +1,6 @@
+num=int(input("Please enter your first value "))
+check=int(input("Please enter your second value "))
+if num%check:
+   print("divides evenly")
+else:
+   print("can't divides evenly")
